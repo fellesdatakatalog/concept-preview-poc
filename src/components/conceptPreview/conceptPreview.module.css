@@ -1,0 +1,7 @@
+.conceptPreview {
+    display: flex;
+    flex-direction: column;
+    margin-top: 4em;
+    min-width: max(60%, 400px);
+    gap: 1em;
+}
